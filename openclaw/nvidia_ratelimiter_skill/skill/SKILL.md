@@ -1,6 +1,7 @@
 ---
 name: rate-limiter-nim
 description: "Wraps NVIDIA NIM API calls to prevent HTTP 429 bans. Enforces 20 req/min, 3s minimum interval, and 60s backoff on rate limit errors. Reads NVIDIA_API_KEY from the environment. Works on Linux, macOS, and Windows."
+author: "IAsimov Technologies"
 version: 1.0.0
 metadata:
   openclaw:
