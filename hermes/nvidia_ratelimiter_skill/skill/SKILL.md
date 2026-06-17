@@ -1,7 +1,7 @@
 ---
 name: rate-limiter-nim
 title: "Rate Limiter for NVIDIA NIM — Anti-429"
-author: "community"
+author: "Iasimov Technologies"
 version: "2.0"
 description: "Wraps any NVIDIA NIM API call to automatically enforce rate limits and prevent HTTP 429 bans. Reads NVIDIA_API_KEY from ~/.hermes/.env. Works on Linux, macOS, and Windows (WSL). Zero extra configuration needed."
 ---
